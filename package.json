@@ -1,0 +1,19 @@
+{
+  "name": "@Renato/promiseObject",
+  "version": "1.0.0",
+  "description": "wrapper class for promises in object form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajeshRenato/promise_object.git"
+  },
+  "author": "Rajesh Renato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajeshRenato/promise_object/issues"
+  },
+  "homepage": "https://github.com/RajeshRenato/promise_object#readme"
+}
